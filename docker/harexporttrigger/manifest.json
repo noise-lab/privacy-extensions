@@ -1,0 +1,39 @@
+{
+  "name": "HARExportTrigger",
+  "author": "Austin Hounsel and Kevin Borgolte",
+  "short_name": "HARExportTrigger",
+  "version": "0.6.3",
+  "devtools_page": "src/devtools.html",
+  "description": "Trigger HAR export from within a web page",
+  "manifest_version": 2,
+  "homepage_url": "https://github.com/devtools-html/har-export-trigger/",
+  "applications": {
+    "gecko": {
+      "id": "harexporttrigger@princeton.edu",
+      "strict_min_version": "62.0"
+    }
+  },
+  "background": {
+    "scripts": [
+      "src/background.js"
+    ]
+  },
+  "permissions": [
+    "<all_urls>",
+    "nativeMessaging"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "src/content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    "lib/harapi.js"
+  ]
+}

@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: README.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8iqpy5VKWWPFfKofg8uIZwWAe4U=
+SHA256-Digest: ZB22tEkzA1pxZLgIjOCpDKHvMQparS39u/hBmQ0YSiE=
+
+Name: LICENSE
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0iFXq8D8C0rpY4DAlSjiPPdykKk=
+SHA256-Digest: HyVuytGSiAUQ6ErWBHTqt1iSGHhLmlC8fO7jTCuR8dU=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AQYcN+1OGySur/kA0MptikXSCO8=
+SHA256-Digest: +WDZ2AlbMZtKI/ZME5abQo8wI7j8Mnm/O7zmAGQLbj0=
+
+Name: src/content.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UTblPp0UlXlX94lOCNT9lqFIpwM=
+SHA256-Digest: bTD0wtSacnYexkvudo8YFchorTsq+Tlt4We4npGfPOQ=
+
+Name: src/devtools.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4Wbou/S2bYLYcbAScJCBTKRECJo=
+SHA256-Digest: BEGD8fgFnRIGw1L7fsiiVbdA0FsoYrDyKpvr7lgRqsc=
+
+Name: src/devtools.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rNuM2V7JE/lHCMktKNG2MEXt/4Y=
+SHA256-Digest: l9wwuMpdpr9XJ8AHOir7ta3FHmRv5fxpn5nj3aFS7yg=
+
+Name: src/background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: o66iCDVkCGt3+wwESPJIsVMHRbQ=
+SHA256-Digest: g7St+mrtk3PK6PDukyLQuH6MMJJJzv+ab+K4eXsbSEA=
+
+Name: res/icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4T7VHF11xahnFL8XsGc4ynOrHGM=
+SHA256-Digest: CbGMxe5/Py8KWwzzIpl3T3q6VaIKas3mrwrVha8VsuQ=
+
+Name: lib/harapi.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: n0djBhvJq0vs4u8+GpWPHTY0eqE=
+SHA256-Digest: oX3c+XQ0mR4ufl5/GT7GAC5KJls+wRXRN+rfLRxNXmQ=
+

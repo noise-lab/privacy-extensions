@@ -1,0 +1,9 @@
+{
+  "name": "har_catcher",
+  "description": "Output HAR to stdout",
+  "path": "/home/seluser/measure/har_catcher.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://eiemfgipjkaalmonnmhioappaccjonah/"
+  ]
+}
